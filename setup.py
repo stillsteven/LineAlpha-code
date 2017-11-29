@@ -1,8 +1,8 @@
 # coding: utf-8
 
 """
-:copyright: (c) 2014 by Taehoon Kim.
-:license: BSD, see LICENSE for more details.
+:copyleft: (c) 2014 by Taehoon Kim.
+:license: GNU GPL, see LICENSE for more details.
 このライブラリはTaehoon Kim氏が開発し、Sh1maが改良したライブラリです。
 """
 
