@@ -1,9 +1,9 @@
 # coding: utf-8
 
 """
-:copyleft: (c) 2014 by Taehoon Kim.
-:license: GNU GPL, see LICENSE for more details.
-このライブラリはTaehoon Kim氏が開発し、Sh1maが改良したライブラリです。
+:copyright: (c) 2014 by Taehoon Kim.
+:license: BSD, see LICENSE for more details.
+このライブラリはTaehoon Kim氏が開発し、Aidenが改良したライブラリです。
 """
 
 from distutils.core import setup
